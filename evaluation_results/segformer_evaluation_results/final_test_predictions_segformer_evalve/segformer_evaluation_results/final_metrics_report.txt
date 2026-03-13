@@ -1,0 +1,22 @@
+SEGFORMER FINAL EVALUATION METRICS
+==================================================
+
+Mean IoU (mIoU):       0.7056
+Mean Precision (mAP):  0.8153  <-- (Approximation of mAP for Semantic Segmentation)
+Mean Recall:           0.8251
+Global Pixel Accuracy: 0.8910
+
+PER-CLASS METRICS:
+---------------------------------------------------------------------------
+Class Name         | IoU        | Precision  | Recall    
+---------------------------------------------------------------------------
+Background         | 0.8793     | 0.9209     | 0.9511    
+Trees              | 0.7414     | 0.8235     | 0.8814    
+Lush Bushes        | 0.7238     | 0.8288     | 0.8510    
+Dry Grass          | 0.5526     | 0.6480     | 0.7896    
+Dry Bushes         | 0.4446     | 0.6671     | 0.5714    
+Ground Clutter     | 0.7284     | 0.8131     | 0.8748    
+Logs               | 0.6897     | 0.8105     | 0.8223    
+Rocks              | 0.5822     | 0.7936     | 0.6861    
+Landscape          | 0.7257     | 0.8522     | 0.8302    
+Sky                | 0.9883     | 0.9954     | 0.9929    

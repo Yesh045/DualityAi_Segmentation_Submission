@@ -1,0 +1,9 @@
+TRAINING RESULTS
+==================================================
+
+Best Results:
+  Best Val IoU:      0.6171 (Epoch 50)
+  Best Val Dice:     0.7861 (Epoch 49)
+  Lowest Val Loss:   0.5429 (Epoch 50)
+==================================================
+

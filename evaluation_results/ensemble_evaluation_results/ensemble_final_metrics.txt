@@ -1,0 +1,8 @@
+ENSEMBLE (SOFT-VOTING) FINAL EVALUATION METRICS
+==================================================
+
+Mean IoU (mIoU):       0.7215
+Mean Precision (mAP):  0.8316
+Mean Recall:           0.8332
+Global Pixel Accuracy: 0.8990
+

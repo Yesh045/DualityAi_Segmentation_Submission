@@ -1,0 +1,9 @@
+TRAINING RESULTS (UNet++)
+==================================================
+
+Best Results:
+  Best Val IoU:      0.6445 (Epoch 47)
+  Best Val Dice:     0.8026 (Epoch 47)
+  Lowest Val Loss:   0.4821 (Epoch 47)
+==================================================
+

@@ -1,0 +1,22 @@
+DEEPLABV3+ FINAL EVALUATION METRICS
+==================================================
+
+Mean IoU (mIoU):       0.6899
+Mean Precision (mAP):  0.8052  <-- (Approximation of mAP for Semantic Segmentation)
+Mean Recall:           0.8108
+Global Pixel Accuracy: 0.8842
+
+PER-CLASS METRICS:
+---------------------------------------------------------------------------
+Class Name         | IoU        | Precision  | Recall    
+---------------------------------------------------------------------------
+Background         | 0.8710     | 0.9140     | 0.9488    
+Trees              | 0.7250     | 0.8133     | 0.8697    
+Lush Bushes        | 0.7138     | 0.8179     | 0.8487    
+Dry Grass          | 0.5378     | 0.6388     | 0.7729    
+Dry Bushes         | 0.4095     | 0.6313     | 0.5382    
+Ground Clutter     | 0.7114     | 0.8147     | 0.8488    
+Logs               | 0.6734     | 0.8062     | 0.8035    
+Rocks              | 0.5598     | 0.7777     | 0.6665    
+Landscape          | 0.7099     | 0.8428     | 0.8182    
+Sky                | 0.9877     | 0.9953     | 0.9923    

@@ -1,0 +1,22 @@
+UNET++ FINAL EVALUATION METRICS
+==================================================
+
+Mean IoU (mIoU):       0.7253
+Mean Precision (mAP):  0.8366  <-- (Approximation of mAP for Semantic Segmentation)
+Mean Recall:           0.8336
+Global Pixel Accuracy: 0.9024
+
+PER-CLASS METRICS:
+---------------------------------------------------------------------------
+Class Name         | IoU        | Precision  | Recall    
+---------------------------------------------------------------------------
+Background         | 0.9058     | 0.9404     | 0.9610    
+Trees              | 0.7545     | 0.8361     | 0.8854    
+Lush Bushes        | 0.7403     | 0.8331     | 0.8692    
+Dry Grass          | 0.5483     | 0.6558     | 0.7698    
+Dry Bushes         | 0.5270     | 0.7622     | 0.6307    
+Ground Clutter     | 0.7141     | 0.8040     | 0.8647    
+Logs               | 0.7311     | 0.8617     | 0.8283    
+Rocks              | 0.5851     | 0.8026     | 0.6834    
+Landscape          | 0.7553     | 0.8732     | 0.8484    
+Sky                | 0.9916     | 0.9965     | 0.9951    
