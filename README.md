@@ -117,9 +117,6 @@ Evaluation revealed boundary confusion between "Dry Grass" and "Ground Clutter".
 ## 6. Submission Team
 
 * **Team Name:** Team Anant
-* 
 **Track:** Segmentation Track 
-
-
 
 ```
