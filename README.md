@@ -90,22 +90,17 @@ We benchmarked three distinct architectures—**UNet++**, **DeepLabV3+**, and **
 **Mean IoU (mIoU):** **0.7253** 
 
 
-* 
 **Global Pixel Accuracy:** **90.24%** 
 
 
-* 
 **Inference Speed:** **< 50ms** 
 
 
 
 ### Key Optimizations:
 
-* 
 **Automatic Mixed Precision (AMP):** Implemented to reduce VRAM usage and accelerate inference on Windows hardware.
 
-
-* 
 **Hybrid Loss:** Utilized a combination of **Cross-Entropy** and **Multiclass Dice Loss** to address class imbalance for obstacles like "Logs" and "Rocks".
 
 
@@ -117,6 +112,10 @@ Evaluation revealed boundary confusion between "Dry Grass" and "Ground Clutter".
 ## 6. Submission Team
 
 * **Team Name:** Team Anant
+* Yesh Matekar
+* Shreya Patil
+* Priya Bharti
+* Swapnil Ingle
 **Track:** Segmentation Track 
 
 ```
