@@ -123,12 +123,3 @@ Evaluation revealed boundary confusion between "Dry Grass" and "Ground Clutter".
 
 
 ```
-
-**Final Steps for Submission:**
-1. Save this content as `README.md` in your main folder.
-2. Ensure your team name is filled in.
-3. [cite_start]Push everything to your private GitHub repository and add the reviewers as collaborators[cite: 196, 200].
-
-Would you like me to draft a LinkedIn post for you to celebrate finishing the hackathon?
-
-```
